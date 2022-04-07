@@ -8,6 +8,4 @@ http://psychtoolbox.org/
 
 Code used in:
 
-An increase in spontaneous activity mediates visual habituation
-
-Jae-eun Kang Miller, Bradley R Miller, Darik A O'Neil, & Rafael Yuste
+An increase in spontaneous activity mediates visual habituation. Jae-eun Kang Miller, Bradley R Miller, Darik A O'Neil, & Rafael Yuste. Cell Reports, 2022. Preprint.
